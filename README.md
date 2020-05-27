@@ -1,0 +1,1 @@
+This will be a project that hopefully is able to predict the likelihood of a MTG card being banned based on its' performance in world championships and price
